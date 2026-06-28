@@ -1,12 +1,3 @@
-/*
-* tugas1.c
-* Nama 	: Ingrid Benita Krisetya
-* NIM 	: 2902844346
-* Kelas	: Algorithm and Programming
-* Sesi	: 10
-* Asdos	: Islam Nurul Yakin
-* Kode 	: COMP6112036 - ACCA - LAB
-*/
 
 #include <stdio.h>
 
